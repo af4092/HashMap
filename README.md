@@ -1,2 +1,2 @@
-# HashMap
-Map implementation using Hashing
+# [HashMap](https://en.wikipedia.org/wiki/Hash_function)
+## Map implementation using Hashing
