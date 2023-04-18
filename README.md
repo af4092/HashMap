@@ -14,3 +14,7 @@ hashCode method is as follows:
 2. During the execution of a program, invoking the hashCode method multiple times returns the same integer, provided that the object’s data are not changed.
 
 3. Two unequal objects may have the same hash code, but you should implement the hashCode method to avoid too many such cases.
+
+Demo:
+
+![image](https://user-images.githubusercontent.com/24220136/232703343-4952da2e-245f-4239-8614-bbbb8377af35.png)
