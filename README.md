@@ -1,6 +1,8 @@
 # [HashMap](https://en.wikipedia.org/wiki/Hash_function)
 ### Map implementation using Hashing
 
+![image](https://user-images.githubusercontent.com/24220136/232686505-f0e6881b-b182-43be-9ba2-f60a6d454945.png)
+
 *[Hash Functions](https://en.wikipedia.org/wiki/Hash_function)*
 ------------------
 
