@@ -1,5 +1,5 @@
 # [HashMap](https://en.wikipedia.org/wiki/Hash_function)
-## Map implementation using Hashing
+Map implementation using Hashing
 
 *[Hash Functions](https://en.wikipedia.org/wiki/Hash_function)*
 ------------------
