@@ -32,7 +32,6 @@ The MyHashSet class implements the MySet interface using separate chaining. Impl
 differences:
 
 1. The elements are stored in the hash table for MyHashSet, but the entries (key/value pairs) are stored in the hash table for MyHashMap.
-
 2. MySet extends java.lang.Iterable and MyHashSet implements MySet and overrides iterator(). So the elements in MyHashSet are iterable.
 
 Three constructors are provided to construct a set. You can construct a default set with the default capacity and load factor using the no-arg constructor (lines 26–28), a set with the specified capacity and a default load factor (lines 32–34), and a set with the specified capacity and load factor (lines 38–46).
