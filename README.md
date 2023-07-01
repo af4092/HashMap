@@ -22,7 +22,9 @@ hashCode method is as follows:
 </p>
 
 *[HashSet](https://en.wikipedia.org/wiki/Set_(abstract_data_type))*
-### Set implementation using Hashing
+-----------------------
+
+## Set implementation using Hashing
 
 - A hash set can be implemented using a hash map. A set is a data structure that stores distinct values. The Java Collections Framework defines the `java.util.Set` interface for modeling sets. Three concrete implementations are `java.util.HashSet`, `java.util.LinkedHashSet`, and `java.util.TreeSet`. 
 
